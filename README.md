@@ -91,21 +91,7 @@
 
 ## 🔗 Connect With Me
 
-<p align="left">
-
-<a href="https://linkedin.com/in/karansingh2328" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
-</a>
-
-<a href="https://www.hackerrank.com/karansingh_cont1" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40"/>
-</a>
-
-<a href="https://www.leetcode.com/karansingh2328" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/leet-code.svg" alt="LeetCode" height="30" width="40"/>
-</a>
-
-</p>
+<p align="center"> <a href="https://linkedin.com/in/karansingh2328"> <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/> </a> <a href="https://www.hackerrank.com/karansingh_cont1"> <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=flat-square&logo=hackerrank" alt="HackerRank"/> </a> <a href="https://leetcode.com/karansingh2328"> <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=flat-square&logo=leetcode" alt="LeetCode"/> </a> <a href="mailto:karansingh.contact28@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail" alt="Email"/> </a> </p>
 
 📫 **Email:** [karansingh.contact28@gmail.com](mailto:karansingh.contact28@gmail.com)
 
