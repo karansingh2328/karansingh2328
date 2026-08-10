@@ -75,35 +75,6 @@
 </a>
 
 </p>
-
----
-
-## 📂 Featured Projects
-
-### 🤖 AI-Powered Data Analyst Agent
-
-An AI-powered workflow that analyzes Google Sheets data and automatically generates a structured analytical report through Gmail.
-
-**Tech:** n8n • AI • Google Sheets • Gmail
-
-### 📊 Supply Chain & Customer Analytics
-
-End-to-end analytics project covering data cleaning, feature engineering, SQL analysis, exploratory data analysis, and interactive Power BI dashboards.
-
-**Tech:** Python • Pandas • SQL • Power BI
-
-### 💳 Transaction & Fraud Analysis
-
-Analyzing transaction patterns, customer behavior, geographic trends, and fraud activity to identify potential business insights.
-
-**Tech:** PostgreSQL • SQL • Python • Data Visualization
-
-### ❤️ Heart Disease Prediction
-
-Machine learning project focused on predicting heart disease using patient-related features and evaluating model performance.
-
-**Tech:** Python • Pandas • Scikit-learn • Machine Learning
-
 ---
 
 ## 📊 GitHub Stats
