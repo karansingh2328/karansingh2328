@@ -28,6 +28,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjRqbWg5cjV4bHZjZ3Ayc3llZTZiMHZjNDR2YTNpd3dkenRpbXBibSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XCYbePMiIPwCow2qq0/giphy.gif" width="500" alt="Developer Coding">
+</p>
+
+---
+
 ## 💬 Ask Me About
 
 **Data Analysis • SQL • Python • Power BI • Data Visualization • Business Insights**
