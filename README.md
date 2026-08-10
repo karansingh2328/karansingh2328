@@ -79,9 +79,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karansingh2328&show_icons=true&hide_border=true" alt="Karan's GitHub Stats"/>
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=karansingh2328&show_icons=true&hide_border=true&include_all_commits=true" alt="GitHub Stats"/> </p>
 
 ## 🔗 Connect With Me
 
