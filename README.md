@@ -20,19 +20,11 @@
 ## 👨‍💻 About Me
 
 * 📊 Aspiring **Data Analyst** focused on turning raw data into actionable insights
-* 🧠 Interested in **data-driven problem solving and business analytics**
+* 🧠 Interested in **data-driven problem-solving and business analytics**
 * 🛠️ Building end-to-end projects using **SQL, Python, and Power BI**
 * 📈 Experienced in **data cleaning, exploratory data analysis, visualization, and dashboard development**
 * 🤖 Exploring **AI-powered data analytics and workflow automation**
 * 🚀 Continuously building practical projects to strengthen my analytics skills
-
----
-
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjRqbWg5cjV4bHZjZ3Ayc3llZTZiMHZjNDR2YTNpd3dkenRpbXBibSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XCYbePMiIPwCow2qq0/giphy.gif" 
-       width="500" 
-       alt="Data Analytics GIF">
-</p>
 
 ---
 
@@ -84,11 +76,6 @@
 
 </p>
 ---
-
-## 📊 GitHub Stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=karansingh2328&show_icons=true&hide_border=true&include_all_commits=true" alt="GitHub Stats"/> </p>
-
 ## 🔗 Connect With Me
 
 <p align="center"> <a href="https://linkedin.com/in/karansingh2328"> <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/> </a> <a href="https://www.hackerrank.com/karansingh_cont1"> <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=flat-square&logo=hackerrank" alt="HackerRank"/> </a> <a href="https://leetcode.com/karansingh2328"> <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=flat-square&logo=leetcode" alt="LeetCode"/> </a> <a href="mailto:karansingh.contact28@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail" alt="Email"/> </a> </p>
