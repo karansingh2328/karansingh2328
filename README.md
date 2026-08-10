@@ -1,20 +1,145 @@
 <h1 align="center">Hi 👋, I'm Karan Singh</h1>
+
 <h3 align="center">Aspiring Data Analyst | SQL • Python • Power BI</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karansingh2328" alt="karansingh2328" /></a> </p>
-
-- 💬 Ask me about **Data Analysis, SQL, Python, Power BI, and Business Insights**
-
-- 📫 How to reach me **karansingh.contact28@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/karansingh2328" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karansingh2328" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/karansingh_cont1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="karansingh_cont1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/karansingh2328" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="karansingh2328" height="30" width="40" /></a>
+<p align="center">
+  Turning data into meaningful insights and business decisions.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://linkedin.com/in/karansingh2328">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:karansingh.contact28@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email"/>
+  </a>
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=karansingh2328&show_icons=true&locale=en&layout=compact" alt="karansingh2328" /></p>
+---
+
+## 👨‍💻 About Me
+
+* 📊 Aspiring **Data Analyst** focused on turning raw data into actionable insights
+* 🧠 Interested in **data-driven problem solving and business analytics**
+* 🛠️ Building end-to-end projects using **SQL, Python, and Power BI**
+* 📈 Experienced in **data cleaning, exploratory data analysis, visualization, and dashboard development**
+* 🤖 Exploring **AI-powered data analytics and workflow automation**
+* 🚀 Continuously building practical projects to strengthen my analytics skills
+
+---
+
+## 💬 Ask Me About
+
+**Data Analysis • SQL • Python • Power BI • Data Visualization • Business Insights**
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="left">
+
+<a href="https://www.python.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
+</a>
+
+<a href="https://www.postgresql.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="45" height="45"/>
+</a>
+
+<a href="https://pandas.pydata.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="45" height="45"/>
+</a>
+
+<a href="https://numpy.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="45" height="45"/>
+</a>
+
+<a href="https://matplotlib.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="45" height="45"/>
+</a>
+
+<a href="https://seaborn.pydata.org/" target="_blank">
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="45" height="45"/>
+</a>
+
+<a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank">
+<img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="Power BI" width="45" height="45"/>
+</a>
+
+<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
+<img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="Excel" width="45" height="45"/>
+</a>
+
+<a href="https://n8n.io/" target="_blank">
+<img src="https://cdn.simpleicons.org/n8n" alt="n8n" width="45" height="45"/>
+</a>
+
+</p>
+
+---
+
+## 📂 Featured Projects
+
+### 🤖 AI-Powered Data Analyst Agent
+
+An AI-powered workflow that analyzes Google Sheets data and automatically generates a structured analytical report through Gmail.
+
+**Tech:** n8n • AI • Google Sheets • Gmail
+
+### 📊 Supply Chain & Customer Analytics
+
+End-to-end analytics project covering data cleaning, feature engineering, SQL analysis, exploratory data analysis, and interactive Power BI dashboards.
+
+**Tech:** Python • Pandas • SQL • Power BI
+
+### 💳 Transaction & Fraud Analysis
+
+Analyzing transaction patterns, customer behavior, geographic trends, and fraud activity to identify potential business insights.
+
+**Tech:** PostgreSQL • SQL • Python • Data Visualization
+
+### ❤️ Heart Disease Prediction
+
+Machine learning project focused on predicting heart disease using patient-related features and evaluating model performance.
+
+**Tech:** Python • Pandas • Scikit-learn • Machine Learning
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=karansingh2328&show_icons=true&theme=default&hide_border=true" alt="Karan's GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karansingh2328&layout=compact&hide_border=true" alt="Top Languages"/>
+</p>
+
+---
+
+## 🔗 Connect With Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/karansingh2328" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+</a>
+
+<a href="https://www.hackerrank.com/karansingh_cont1" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40"/>
+</a>
+
+<a href="https://www.leetcode.com/karansingh2328" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/leet-code.svg" alt="LeetCode" height="30" width="40"/>
+</a>
+
+</p>
+
+📫 **Email:** [karansingh.contact28@gmail.com](mailto:karansingh.contact28@gmail.com)
+
+---
+
+<p align="center">
+  <i>“Turning data into insights, one project at a time.”</i>
+</p>
