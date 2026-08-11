@@ -76,7 +76,7 @@
 
 </p>
 ---
-## 🔗 Connect With Me
+##🔗 Connect With Me
 
 <p align="center"> <a href="https://linkedin.com/in/karansingh2328"> <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/> </a> <a href="https://www.hackerrank.com/karansingh_cont1"> <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=flat-square&logo=hackerrank" alt="HackerRank"/> </a> <a href="https://leetcode.com/karansingh2328"> <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=flat-square&logo=leetcode" alt="LeetCode"/> </a> <a href="mailto:karansingh.contact28@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail" alt="Email"/> </a> </p>
 
