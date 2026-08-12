@@ -87,7 +87,3 @@
 - 📧 **Email:** [karansingh.contact28@gmail.com](mailto:karansingh.contact28@gmail.com)
 
 ---
-
-<p align="center">
-  <i>“Turning data into insights, one project at a time.”</i>
-</p>
