@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Karan Singh</h1>
 
-<h3 align="center">Aspiring Data Analyst | SQL • Python • Power BI</h3>
+<h3 align="center">Data Analyst | SQL • Python • Power BI</h3>
 
 <p align="center">
   Turning data into meaningful insights and business decisions.
@@ -19,7 +19,7 @@
 
 ## 👨‍💻 About Me
 
-* 📊 Aspiring **Data Analyst** focused on turning raw data into actionable insights
+* 📊 **Data Analyst** focused on turning raw data into actionable insights
 * 🧠 Interested in **data-driven problem-solving and business analytics**
 * 🛠️ Building end-to-end projects using **SQL, Python, and Power BI**
 * 📈 Experienced in **data cleaning, exploratory data analysis, visualization, and dashboard development**
