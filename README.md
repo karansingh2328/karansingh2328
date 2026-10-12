@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Karan Singh</h1>
 
-<h3 align="center">Data Analyst | SQL • Python • Power BI</h3>
+<h3 align="center">Analytics | Excel • SQL • Python • Power BI</h3>
 
 <p align="center">
   Turning data into meaningful insights and business decisions.
